@@ -7,14 +7,14 @@
 简而言之，setup.py文件可能是令人生畏的，当第一次开始时 - 甚至Guido已经听说过，“每个人都有货币崇拜主义”。这是真的 - 所以，我希望这个repo是从:)复制粘贴的最佳位置
 如果您有兴趣在财务上支持Kenneth Reitz开源，请考虑[访问此链接](https://cash.me/$KennethReitz).您的支持极大地促进了动机的可持续性，因为开源不再是我日常工作的一部分。
 
-[看看这个例子][an example setup.py]
+[看看这个例子][一个示例setup.py]
 
 ![image]
 
 要做的
 -----
 
--   •	测试通过$ setup.py test（如果它简洁）。
+-   测试通过$ setup.py test（如果它简洁）。
 鼓励pull request！
 
 
