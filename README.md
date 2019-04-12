@@ -1,7 +1,7 @@
 📦 setup.py (适用于人类)
 =======================
 
-此存储库提供了[一个示例setup.py] file, that can be used
+此存储库提供了[一个示例setup.py] 
 文件，可用于引导您的下一个Python项目。它包括一些先进的模式和最佳实践setup.py，以及一些评论出来的好东西。
 例如，这setup.py提供了一个$ python setup.py upload 命令，它创建一个通用轮（和sdist）并使用[Twine]上传到[PyPi] , 而不需要烦人的 文件。它还会自动创建/上传新的git标签。setup.cfg
 简而言之，setup.py文件可能是令人生畏的，当第一次开始时 - 甚至Guido已经听说过，“每个人都有货币崇拜主义”。这是真的 - 所以，我希望这个repo是从:)复制粘贴的最佳位置
